@@ -6,6 +6,7 @@
   ],
   "service": "node-ts-repo-template",
   "workspaceFolder": "/utkusarioglu-com/templates/node-ts-repo-template",
+  "postCreateCommand": "scripts/post-create-command.sh",
   "customizations": {
     "vscode": {
       "settings": {
