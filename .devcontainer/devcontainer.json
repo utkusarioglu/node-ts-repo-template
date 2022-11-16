@@ -1,0 +1,18 @@
+{
+  "name": "Existing Docker Compose (Extend)",
+  "dockerComposeFile": [
+    "../.docker/docker-compose.dev.yml",
+    "docker-compose.yml"
+  ],
+  "service": "node-ts-repo-template",
+  "workspaceFolder": "/utkusarioglu-com/templates/node-ts-repo-template",
+  "customizations": {
+    "vscode": {
+      "settings": {
+        "workbench.colorCustomizations": {
+          "activityBar.background": "#ff0000"
+        }
+      }
+    }
+  }
+}
