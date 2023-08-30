@@ -14,7 +14,10 @@
           "activityBar.background": "#ff0000",
           "activityBar.foreground": "#000000"
         }
-      }
+      },
+      "extensions": [
+        "esbenp.prettier-vscode"
+      ]
     }
   }
 }
